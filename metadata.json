@@ -1,0 +1,8 @@
+{
+  "name": "Arcade Battle: Food vs Bombs",
+  "description": "Multiplayer arcade game with NPC and item gathering mechanics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
